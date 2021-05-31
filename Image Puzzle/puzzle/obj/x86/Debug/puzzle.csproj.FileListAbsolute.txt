@@ -1,0 +1,9 @@
+E:\Downloads\TriTueNhanTao-master\Image Puzzle\puzzle\bin\Debug\puzzle.exe
+E:\Downloads\TriTueNhanTao-master\Image Puzzle\puzzle\bin\Debug\puzzle.pdb
+E:\Downloads\TriTueNhanTao-master\Image Puzzle\puzzle\obj\x86\Debug\WindowsFormsApplication1.frmPuzzleGame.resources
+E:\Downloads\TriTueNhanTao-master\Image Puzzle\puzzle\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Downloads\TriTueNhanTao-master\Image Puzzle\puzzle\obj\x86\Debug\puzzle.csproj.GenerateResource.cache
+E:\Downloads\TriTueNhanTao-master\Image Puzzle\puzzle\obj\x86\Debug\puzzle.csproj.CoreCompileInputs.cache
+E:\Downloads\TriTueNhanTao-master\Image Puzzle\puzzle\obj\x86\Debug\puzzle.exe
+E:\Downloads\TriTueNhanTao-master\Image Puzzle\puzzle\obj\x86\Debug\puzzle.pdb
+E:\Downloads\TriTueNhanTao-master\Image Puzzle\puzzle\obj\x86\Debug\puzzle.csprojAssemblyReference.cache
